@@ -74,7 +74,7 @@ body{
 }
 .iniciar__sesion a:hover{
     text-decoration: underline;
-    color: #F76B1C;;
+    color: #F76B1C;
 }
 .footer{
     display: flex;

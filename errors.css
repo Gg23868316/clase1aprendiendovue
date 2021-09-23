@@ -43,25 +43,18 @@ body{
     flex-direction: column;
     border-radius: 0px 0px 40px 40px;
 }
-.button{
-    background-color: rgba(255, 255, 255, 0.1);
-    border: none;
-    border-radius: 25px;
-    color: white;
-    cursor: pointer;
-    font-size: 18px;
-    font-weight: bold;
-    font-family:  'Mulish', sans-serif;
-    height: 50px;
-    letter-spacing: 0.9px;
-    margin: 10px 0px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+.volver{
+    font-size: 14px;
 }
-.button:hover{
-    background-color: #F76B1C;
+.volver a{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: none;
+}
+.volver a:hover{
+    text-decoration: underline;
+    color: #F76B1C;
 }
 .footer{
     display: flex;
